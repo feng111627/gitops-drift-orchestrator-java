@@ -1,0 +1,4 @@
+{"id":"app","type":"service","version":"v1","observedValue":"v1@100"}
+{"id":"db","type":"database","version":"v1","observedValue":"v1@100"}
+{"id":"cache","type":"config","version":9,"observedValue":"v1@100"}
+{"id":"ghost","type":"service","version":"v0","observedValue":"v0@100"}

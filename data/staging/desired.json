@@ -1,0 +1,5 @@
+[
+  {"id": "app",   "type": "service",  "version": "v2", "desiredValue": "v2@100", "dependsOn": ["db"]},
+  {"id": "db",    "type": "database", "version": "v1", "desiredValue": "v1@100", "dependsOn": []},
+  {"id": "cache", "type": "config",   "version": "v1", "desiredValue": "v1@100", "dependsOn": []}
+]

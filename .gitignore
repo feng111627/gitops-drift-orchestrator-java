@@ -37,3 +37,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### 运行时生成的编排状态（保留示例 desired.json/observed.jsonl） ###
+data/**/sync.lock
+data/**/snapshots/
+data/**/rollouts/
+data/**/syncs/
+target/it-data/

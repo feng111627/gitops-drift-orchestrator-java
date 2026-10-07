@@ -1,0 +1,2 @@
+{"id":"app","type":"service","version":"v1","observedValue":"v1@100"}
+{"id":"db","type":"database","version":"v1","observedValue":"v1@100"}
